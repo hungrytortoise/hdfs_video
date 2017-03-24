@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bs_lxh:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bs_lxh-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bs_lxh:war exploded" />
+    </root>
+  </artifact>
+</component>
